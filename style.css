@@ -1,13 +1,27 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        background-color: black;
+}
+    
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        color: aqua;
+    }
+#button {
+    background-color: white;
+    color: black;
+    border-color: red;
+    
 }
 
-body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+#numbers {
+    background-color: antiquewhite;
+    color: black;
+    
 }
