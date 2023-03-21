@@ -2,7 +2,7 @@
         box-sizing: border-box;
         margin: 0;
         padding: 0;
-        background-color: black;
+        background-color: white;
 }
     
     body {
@@ -11,17 +11,15 @@
         justify-content: center;
         align-items: center;
         height: 100vh;
-        color: aqua;
+        color: black;
     }
 #button {
     background-color: white;
     color: black;
     border-color: red;
-    
 }
 
 #numbers {
     background-color: antiquewhite;
-    color: black;
-    
+    color: white;   
 }
